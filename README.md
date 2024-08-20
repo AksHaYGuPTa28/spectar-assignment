@@ -16,3 +16,35 @@
 2. Install dependencies: npm install
 3. Start the development server: npm run dev
 4. Open the app in your browser: http://localhost:3000
+
+### Key Functionalities
+
+1. Implemented a responsive design using Flex and media queries
+
+Desktop View
+
+![Desktop View](https://github.com/user-attachments/assets/b57a710e-60d1-478a-9589-a87826577ed9)
+
+Tablet View
+
+![Tablet](https://github.com/user-attachments/assets/ac88b103-46b9-47bf-a57c-039a9601539c)
+
+Mobile View
+
+![Mobile](https://github.com/user-attachments/assets/236fffea-06ab-4464-b3a0-040f5e5e455b)
+
+
+2. Implement Loading & error handling states for the API call
+
+![Skateboarding Loader](https://github.com/user-attachments/assets/74c3693e-0bde-479b-a4ec-dbef624c61b1) Skatboarding Loader - Spectatr = Sports Love
+
+3. Added a debounce function to the search input to optimize performance.
+
+4. Added transitions like ease-in/out and opacity increase/decrease when resizing the screen.
+
+5. Implemented Responsive Navbar with Spectatr Logo, Navbar converts to Hamburger Menu in smaller screen sizes
+
+![spectatr](https://github.com/user-attachments/assets/85583010-67c6-43c3-80b4-ebba925eb188)
+
+
+ 
