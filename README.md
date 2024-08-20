@@ -42,7 +42,7 @@ Mobile View
 
 4. Added transitions like ease-in/out and opacity increase/decrease when resizing the screen.
 
-5. Implemented Responsive Navbar with Spectatr Logo and Dummy text, Navbar converts to dummy Hamburger Menu in smaller screen sizes
+5. Implemented Responsive Navbar with Spectatr Logo and Dummy text, Navbar converts to dummy Hamburger Menu in smaller screen sizes. Added Spectator Favicon as well.
 
 ![spectatr](https://github.com/user-attachments/assets/85583010-67c6-43c3-80b4-ebba925eb188)
 
