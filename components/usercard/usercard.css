@@ -1,0 +1,52 @@
+/* Default layout (mobile) */
+.user-card {
+    text-align: center;
+    border: 2px solid grey;
+    border-radius: 0.75rem;
+    padding: 1rem 0rem;
+    width: 80%;
+    transition: all 0.3s ease;
+}
+
+.user-card h2 {
+    font-size: 1.25rem;
+}
+
+.user-card p {
+    font-size: 1rem;
+    margin-top: 0.5rem;
+ 
+}
+
+/* Tablet view (600px - 1024px) */
+@media (min-width: 600px) and (max-width: 1024px) {
+
+    .user-card {
+        width: calc(50% - 2rem);
+    }
+
+    .user-card h2 {
+        font-size: 1.25rem;
+    }
+
+    .user-card p {
+        font-size: 1rem; 
+        margin-top: 0.5rem;
+    }
+}
+
+/* Desktop view (larger than 1024px) */
+@media (min-width: 1024px) {
+
+    .user-card {
+        width: calc(33% - 2rem);
+    }
+
+    .user-card h2 {
+        font-size: 1.5rem; 
+    }
+
+    .user-card p {
+        font-size: 1.25rem; 
+    }
+}

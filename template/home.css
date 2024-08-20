@@ -1,0 +1,30 @@
+/* Default layout (mobile) */
+.user-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+    gap: 1rem;
+}
+
+.loading-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+  }
+  
+  .loading-gif {
+    width: 100px; 
+    height: auto;
+  }
+
+/* Both Tablet & Desktop view (More then 600px) */
+@media (min-width: 600px)  {
+    .user-list {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 1rem;
+    }
+}
