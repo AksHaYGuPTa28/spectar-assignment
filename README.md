@@ -4,12 +4,12 @@
 
 * [![Next][Next.js]][Next-url]
 * ![CSS][CSS-IMG]
-
-
+* ![Typescript][Typescript-IMG]
 
 [Next-url]: https://nextjs.org/
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [CSS-IMG]: https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff
+[Typescript-IMG]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff
 
 ### Installation
 1. Clone the repository: git clone https://github.com/your-username/user-list-app.git
@@ -42,9 +42,11 @@ Mobile View
 
 4. Added transitions like ease-in/out and opacity increase/decrease when resizing the screen.
 
-5. Implemented Responsive Navbar with Spectatr Logo, Navbar converts to Hamburger Menu in smaller screen sizes
+5. Implemented Responsive Navbar with Spectatr Logo and Dummy text, Navbar converts to dummy Hamburger Menu in smaller screen sizes
 
 ![spectatr](https://github.com/user-attachments/assets/85583010-67c6-43c3-80b4-ebba925eb188)
+
+6. Hosted on Vercel: https://spectar-assignment.vercel.app/
 
 
  
