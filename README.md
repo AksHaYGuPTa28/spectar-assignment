@@ -12,7 +12,7 @@
 [Typescript-IMG]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff
 
 ### Installation
-1. Clone the repository: git clone https://github.com/your-username/user-list-app.git
+1. Clone the repository: git clone [https://github.com/your-username/user-list-app.git](https://github.com/AksHaYGuPTa28/spectar-assignment.git)
 2. Install dependencies: npm install
 3. Start the development server: npm run dev
 4. Open the app in your browser: http://localhost:3000
