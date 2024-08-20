@@ -36,7 +36,7 @@ Mobile View
 
 2. Implement Loading & error handling states for the API call
 
-![Skateboarding Loader](https://github.com/user-attachments/assets/74c3693e-0bde-479b-a4ec-dbef624c61b1) Skatboarding Loader - Spectatr = Sports Love
+![Skateboarding Loader](https://github.com/user-attachments/assets/74c3693e-0bde-479b-a4ec-dbef624c61b1) Skatboarding Loader Since Spectatr = Sports Love
 
 3. Added a debounce function to the search input to optimize performance.
 
