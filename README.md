@@ -3,7 +3,7 @@
 ### Built With
 
 * [![Next][Next.js]][Next-url]
-* [![CSS][CSS-IMG]]
+* ![CSS][CSS-IMG]
 
 
 

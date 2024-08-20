@@ -26,6 +26,7 @@ const HomePage = () => {
     fetchUsers().then((users) => {
       setUsers(users);
       setLoading(false); 
+      setFilteredUsers(users);
     }).catch((error) => {
       toast.error('Error fetching users');
     });
